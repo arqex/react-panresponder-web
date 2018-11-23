@@ -1,0 +1,29 @@
+{
+  "name": "react-panresponder-web",
+  "version": "1.0.0",
+  "description": "A pan-responder version for the web using react-dom",
+  "main": "dist/panresponder.min.js",
+  "scripts": {
+    "build": "node_modules/.bin/bili",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arqex/react-panresponder-web.git"
+  },
+  "keywords": [
+    "react",
+    "web",
+    "panresponder",
+    "responderevents"
+  ],
+  "author": "Javier Marquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arqex/react-panresponder-web/issues"
+  },
+  "homepage": "https://github.com/arqex/react-panresponder-web#readme",
+  "devDependencies": {
+    "bili": "^3.4.2"
+  }
+}
