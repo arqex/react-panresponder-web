@@ -2,7 +2,7 @@
   "name": "react-panresponder-web",
   "version": "1.0.0",
   "description": "A pan-responder version for the web using react-dom",
-  "main": "dist/panresponder.min.js",
+  "main": "dist/panresponder.js",
   "scripts": {
     "build": "node_modules/.bin/bili",
     "test": "echo \"Error: no test specified\" && exit 1"

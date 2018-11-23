@@ -1,7 +1,7 @@
 module.exports = {
 	input: ['index.js'],
 	moduleName: 'PanResponder',
-	formats: ['umd-min'],
+	formats: ['umd'],
 	global: {
 		react: 'React',
 		'react-dom': 'ReactDom',
