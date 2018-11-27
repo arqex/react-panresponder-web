@@ -1,6 +1,6 @@
 {
   "name": "react-panresponder-web",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A pan-responder version for the web using react-dom",
   "main": "dist/panresponder.js",
   "scripts": {
