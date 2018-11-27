@@ -44,7 +44,7 @@ render(){
 }
 ```
 
-Just by importing the module the responder events are active for the dom so you can start listening to them by adding the following props to the DOM's element in your components:
+Just by importing the module the responder events are active for the DOM, they are triggered clicking with the mouse, so you can start listening to them by adding the following props to the elements in your component:
 * `onStartShouldSetResponder`
 * `onMoveShouldSetResponder`
 * `onResponderGrant`
@@ -55,3 +55,8 @@ Just by importing the module the responder events are active for the dom so you 
 * `onResponderTerminate`
 
 Have a look at [react-native's gesture responder system](https://facebook.github.io/react-native/docs/gesture-responder-system) to know more.
+
+
+---
+
+[MIT licensed](LICENSE)
